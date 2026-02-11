@@ -1,0 +1,6 @@
+pandas
+yfinance
+loguru
+pydantic
+pydantic-settings
+pandas-ta
