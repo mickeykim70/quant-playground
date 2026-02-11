@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+
+# Data
+contact_db.txt
+
+# System
+.DS_Store
+Thumbs.db
